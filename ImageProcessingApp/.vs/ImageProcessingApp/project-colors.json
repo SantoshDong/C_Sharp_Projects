@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69c7d394-21d9-48d6-9ecf-fd3f2890f331": {
+      "ProjectGuid": "69c7d394-21d9-48d6-9ecf-fd3f2890f331",
+      "DisplayName": "ImageProcessingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\santosh\source\repos\Number\Number\bin\Debug\Number.exe.config
+C:\Users\santosh\source\repos\Number\Number\bin\Debug\Number.exe
+C:\Users\santosh\source\repos\Number\Number\bin\Debug\Number.pdb
+C:\Users\santosh\source\repos\Number\Number\obj\Debug\Number.csproj.AssemblyReference.cache
+C:\Users\santosh\source\repos\Number\Number\obj\Debug\Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\santosh\source\repos\Number\Number\obj\Debug\Number.csproj.CoreCompileInputs.cache
+C:\Users\santosh\source\repos\Number\Number\obj\Debug\Number.exe
+C:\Users\santosh\source\repos\Number\Number\obj\Debug\Number.pdb

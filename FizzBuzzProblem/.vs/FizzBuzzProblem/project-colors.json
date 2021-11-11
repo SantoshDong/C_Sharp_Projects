@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dad8993f-a436-48ac-86cd-16003e6fee2d": {
+      "ProjectGuid": "dad8993f-a436-48ac-86cd-16003e6fee2d",
+      "DisplayName": "FizzBuzzProblem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

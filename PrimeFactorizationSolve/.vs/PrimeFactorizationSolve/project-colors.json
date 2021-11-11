@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5325cb38-e46d-47a5-8fde-9a9bec7071f5": {
+      "ProjectGuid": "5325cb38-e46d-47a5-8fde-9a9bec7071f5",
+      "DisplayName": "PrimeFactorizationSolve",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

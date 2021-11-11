@@ -1,0 +1,8 @@
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\bin\Debug\PrimeFactorizationSolve.exe.config
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\bin\Debug\PrimeFactorizationSolve.exe
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\bin\Debug\PrimeFactorizationSolve.pdb
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\obj\Debug\PrimeFactorizationSolve.csproj.AssemblyReference.cache
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\obj\Debug\PrimeFactorizationSolve.csproj.SuggestedBindingRedirects.cache
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\obj\Debug\PrimeFactorizationSolve.csproj.CoreCompileInputs.cache
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\obj\Debug\PrimeFactorizationSolve.exe
+C:\Users\santosh\source\repos\PrimeFactorizationSolve\PrimeFactorizationSolve\obj\Debug\PrimeFactorizationSolve.pdb

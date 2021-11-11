@@ -1,0 +1,11 @@
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.csproj.AssemblyReference.cache
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.Form1.resources
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.Properties.Resources.resources
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.csproj.GenerateResource.cache
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\bin\Debug\windowsFormApplication.exe.config
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\bin\Debug\windowsFormApplication.exe
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\bin\Debug\windowsFormApplication.pdb
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.exe
+C:\Users\santosh\source\repos\windowsFormApplication\windowsFormApplication\obj\Debug\windowsFormApplication.pdb

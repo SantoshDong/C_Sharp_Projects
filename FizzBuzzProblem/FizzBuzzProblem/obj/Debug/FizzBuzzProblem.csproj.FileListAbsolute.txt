@@ -1,0 +1,8 @@
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\FizzBuzzProblem.exe.config
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\FizzBuzzProblem.exe
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\bin\Debug\FizzBuzzProblem.pdb
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\FizzBuzzProblem.csproj.AssemblyReference.cache
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\FizzBuzzProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\FizzBuzzProblem.csproj.CoreCompileInputs.cache
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\FizzBuzzProblem.exe
+C:\Users\santosh\source\repos\FizzBuzzProblem\FizzBuzzProblem\obj\Debug\FizzBuzzProblem.pdb
