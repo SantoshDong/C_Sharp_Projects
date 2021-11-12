@@ -37,7 +37,9 @@ namespace ImageProcessingApp
 
         private void btnMedian_Click(object sender, EventArgs e)
         {
-
+            Bitmap copy = new Bitmap((Bitmap)this.picOriginal.Image);
+            ForProcessing.MedianFiltering(copy);
+            this.picModified.Image = copy;
         }
     }
 }

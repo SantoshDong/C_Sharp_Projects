@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MinesweeperGame"
+    "\\MinesweeperGame",
+    "\\MinesweeperGame\\bin"
   ],
-  "SelectedNode": "\\MinesweeperGame\\Form1.cs",
+  "SelectedNode": "\\MinesweeperGame.sln",
   "PreviewInSolutionExplorer": false
 }

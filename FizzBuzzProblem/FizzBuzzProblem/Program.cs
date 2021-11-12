@@ -10,6 +10,8 @@ namespace FizzBuzzProblem
         {
             while (true)
             {
+                Random randomName = new Random();
+                Console.WriteLine(randomName.next(1, 101));
                 //Ask the Use for the Input
                 Console.WriteLine("Please Enter the number between 1 to 100");
                 string UserInput = Console.ReadLine();
